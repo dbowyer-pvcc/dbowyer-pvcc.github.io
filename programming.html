@@ -1,0 +1,197 @@
+<!--Name: Dustin Bowyer
+PROG PURPOSE: This is a list of terms and topics from chapter 5-->
+<html lang="en">
+<head>
+	<title>Chapter 5: Programming Algorithms & Software Testing</title>
+
+    <style>
+        table{background-color: rgba(251, 252, 252, 0.7)}
+        h1{color:#0d1ed4; font-size: 1.8em; margin-left: 1em; font-weight: bold;}
+        h2{color:#f47535; font-size: 1.5em; margin-left: 2em;font-weight: bold;}
+        table{width: 800px; font-size: 1.3em; font-weight: bold; background-color:#390e29; border: 1px solid white;}
+
+        a{text-decoration: none;}
+            a:link{color:#ff66cc;}
+            a:visited{color:#ffff00;}
+            a:hover{color:#d457ab;}
+            a:active{color:#20bbbb;}
+        
+    </style>
+</head>
+<body style="color:#dce531; background-color:#711752; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+    <h1 style="text-align:center; font-weight: bold; font-size: 300%;">Chapter 5: Programming Algorithms & Software Testing</h1>
+
+    <h2>Phases of Computer Program Development</h2>
+    <ol>
+        <li>Understand the problem.</li>
+        <li>Design an algorithm to solve the problem.</li>
+        <li>Write the program code in appropriate language based on the algorithm.</li>
+        <li>Enter the program and save.</li>
+        <li>Execute the program.</li>
+        <li>Test the program, find errors and debug, then retest.</li>
+        <li>Document and evaluate the program.</li>
+    </ol>
+
+    <h2>Programming Structures</h2>
+
+    <table>
+        <tr>
+            <td>Structure</td>
+            <td>definition(s)</td>
+        </tr>
+        <tr>
+            <td>Sequential Structure</td>
+            <td>Top-down excecution</td>
+        </tr>
+        <tr>
+            <td>Decision Structures</td>
+            <td>if/then/else</td>
+        </tr>
+        <tr>
+            <td>Iterative (Looping)</td>
+            <td>
+                <ul>
+                    <li>While Loop: continue looping as long as something is true.</li>
+                    <li>Repeat/Until Loop: Continue looping as long as something is true.</li>
+                    <li>For Loop: Loop a given number of times.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursive Structures</td>
+            <td>Repeat a set of instructions as a subtask of itself. Repetition continues until:
+                <ul>
+                    <li>Degenrative case, which is a termination condition, is met.</li>
+                    <li>(degenerative case is also called a "base case".)</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+    <h2>Two Classic Programming/Database Problems.</h2>
+
+    <table>
+        <tr>
+            <td>Problem</td>
+            <td>Solutions</td>
+        </tr>
+        <tr>
+            <td>Sorting</td>
+            <td>
+                <ul>
+                    <li>Descending order/acsending order</li>
+                    <li>Sorting Numbers</li>
+                    <li>sorting strings (in accordance with ASCII values)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Searching</td>
+            <td>
+                <ul>
+                    <li>Find Specific data that meet a ceritian criteria</li>
+                    <li>In Database:</li>
+                    <li>Filters: Temporary search</li>
+                    <li>Queries: Search criteria are saved so they dont have to be recreated</li>
+                </ul>
+            </td>
+        </tr>
+        
+    </table>
+
+    <h2>Two Popular Search Techniques</h2>
+
+    <ol>
+        <li>Sequential Search: Search from top to bottom or bottom to top, one item at a time.</li>
+        <li>Binary Search: Only works if data is SORTED first. Start in the middle, then go to half of that, ect.</li>
+    </ol>
+
+    <h2>Two Classic Program Goals</h2>
+
+    <ol>
+        <li>Efficiency: Program takes minimal time and/or resources.</li>
+        <li>Correctness: Program runs in expected ways and works for all expected conditions.</li>
+    </ol>
+
+    <h2>Software Testing and verification</h2>
+
+    <h3>Kinds of Tests</h3>
+
+    <table>
+        <tr>
+            <td>Kinds of Tests</td>
+            <td>Definitions</td>
+        </tr>
+        <tr>
+            <td>Acceptance Testing</td>
+            <td>Verifying whether the whole system works as intended.</td>
+        </tr>
+        <tr>
+            <td>Integration Testing</td>
+            <td>Ensuring that software components or functions operate together.</td>
+        </tr>
+        <tr>
+            <td>Unit Testing</td>
+            <td>Validating that each software unit performs as expected. A unit is the smallest testable component of an application.</td>
+        </tr>
+        <tr>
+            <td>Functional Testing</td>
+            <td>Checking functions by emulating buisiness scenerios, based on functional requirements. Black-box testing is a commen way 
+                to verify functions.</td>
+        </tr>
+        <tr>
+            <td>Performance Testing</td>
+            <td>Testing how the software performs under different workloads. Load testing, for example, is used to emulate performance 
+                under real-life load conditions.</td>
+        </tr>
+        <tr>
+            <td>Regression Testing</td>
+            <td>Checking whether or new features break or degrade functionality. Sanity testing can be used to verify menus, functions 
+                and commands at the surface level, when there is no time for a full regression test.</td>
+        </tr>
+        <tr>
+            <td>Stress Testing</td>
+            <td>Testing how much strain the system can take before it fails. Considered to be a type of non-functional testing.</td>
+        </tr>
+        <tr>
+            <td>Usability Testing</td>
+            <td>Validating how well a customer can use a system or web application to complete a task.</td>
+        </tr>
+
+    </table>
+        
+    <h3>Software testing is done to detect:</h3>
+    <ul>
+        <li>Archetural Flaws</li>
+        <li>Poor design decisions</li>
+        <li>Invalid or incorrect functionality</li>
+        <li>Security vulnerablities</li>
+        <li>Scalability issues</li>
+    </ul>
+
+    <h3>Testing Best Practices:</h3>
+    <ol>
+        <li>Continous Testing:  Project teams test each build as it becomes available. This type of 
+         software testing relies on test automation that is integrated with the deployment process. It enables software to be 
+         validated in realistic test environments earlier in the process improving design and reducing risks.</li>
+        <li>Configuration Managment: Organizations centrally maintain test assets and track what software builds to test. Teams gain 
+            access to assets such as code, requirements, design documents, models, test scripts and test results. 
+            Good systems include user authentication and audit trails to help teams meet compliance requirements with minimal administrative effort.</li>
+        <li>Service Virtualization: Testing environments may not be available, especially early in code development. Service virtualization simulates 
+            the services and systems that are missing or not yet completed, enabling teams to reduce dependencies and test sooner. They can 
+            reuse, deploy and change a configuration to test different scenarios without having to modify the original environment.</li>
+        <li>Defect or "Bug Tracking":Monitoring defects is important to both testing and development teams for measuring and improving quality. 
+            Automated tools allow teams to track defects, measure their scope and impact, and uncover related issues. </li>
+        <li>Metrics and Reporting:  Reporting and analytics enable team members to share status, goals and test results. Advanced tools integrate 
+            project metrics and present results in a dashboard. Teams quickly see the overall health of a project and can monitor relationships 
+            between test, development and other project elements.</li>
+    </ol>
+    <ul>
+        <li><a href="https://www.ibm.com/topics/software-testing">From: IBM What is software testing?</a></li>
+    </ul>
+
+</body>
+</html>
+
+        
+    
