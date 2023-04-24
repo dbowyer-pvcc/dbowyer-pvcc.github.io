@@ -1,0 +1,36 @@
+
+**********PIEDMONT VIRGINIA COMMUNITY COLLEGE************
+CERTIFICATE: Computer & Network Support Technologies
+--------------------------------------------------
+Number of required courses  : 3
+Number of elected courses   : 22
+Total number of Cert. courses : 25
+--------------------------------------------------
+All Certificate courses: *ITN 260 *ITN 151 *CSC 201 *ITN 290 
+*ETR 203 *ITP 120 CSC 110 *MTH 263 ITN 101 
+*ITN 170 *ETR 149 *ITP 290 *ITP 200 *MTH 162 
+*ETR 113 *ITN 106 *MTH 161 *ITP 132 *ETR 290 
+*ITP 220 *CSC 202 ETR 164 *ITN 120 *MTH 131 
+*CSC 205 
+NOTES:
+  *Asterisk indicates ELECTIVE courses
+  Students choose 3 tecnhical elective courses
+--------------------------------------------------
+ASSOCIATE:Information Technology 
+--------------------------------------------------
+Number of required courses  : 14
+Number of elected courses   : 10
+Total number of Cert. courses : 24
+--------------------------------------------------
+All Associate courses: *ITN 260 MTH 131 *ITN 277 ETR 149 
+*ITN 276 *ITP 136 ITP 120 ENG 112 CSC 110 
+ITN 101 IDT 110 *ITN 170 ITD 132 ITE 182 
+ENG 111 *ITN 208 ITN 106 *ITP 132 *ITP 220 
+*ITP 150 ETR 164 *ITN 261 ITE 215 ITN 111 
+
+NOTES:
+  *Asterisk indicates ELECTIVE courses
+  Students choose 3 tecnhical elective courses
+--------------------------------------------------
+--------------------------------------------------
+REQUIRED courses in both programs:CSC 110 ITN 101 ETR 164 
