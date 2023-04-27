@@ -1,0 +1,71 @@
+
+****************** CSC 230 Grade Report *****************
+Report Date/Time        : 2023-04-24 22:27:21.506595
+Total number of students: 57
+Average student grade   : 75.24
+Total number of A grades: 4
+Total number of B grades: 15
+Total number of C grades: 25
+Total number of D grades: 1
+Total number of F grades: 3
+********************************************************
+NAME                     HW	MID	FIN	FINAL GRADE
+********************************************************
+Cho, Dianne       	92	90	91	 91.00 A
+Anderson, Manuel  	89	92	94	 91.67 A
+Thompson, Yani    	63	74	59	 65.33 D
+Ortiz, Graciela   	81	76	79	 78.67 C
+Wilson, Danielle  	100	89	94	 94.33 A
+Smith, Steven     	75	60	63	 66.00 D
+Johnson, Angelo   	91	71	61	 74.33 C
+Williams, Megan   	53	0	61	 38.00 F
+Brown, Johanna    	65	69	77	 70.33 C
+Jones, John       	87	86	58	 77.00 C
+Garcia, Alicia    	64	90	68	 74.00 C
+Miller, Ronald    	62	43	57	 54.00 F
+Davis, Brian      	99	72	96	 89.00 B
+Rodriguez, Luis   	95	62	97	 84.67 B
+Martinez, Philip  	66	69	94	 76.33 C
+Hernandez, Lakeesha	78	59	64	 67.00 D
+Lopez, Ellen      	63	62	99	 74.67 C
+Gonzalez, Lillie  	62	91	59	 70.67 C
+Wilson, Rolando   	0	54	58	 37.33 F
+Anderson, Valerie 	92	93	76	 87.00 B
+Thomas, Armando   	91	72	67	 76.67 C
+Taylor, Emma      	95	66	79	 80.00 B
+Moore, James      	64	85	74	 74.33 C
+Jackson, Jamie    	74	59	93	 75.33 C
+Cho, Ramon        	97	78	79	 84.67 B
+Lee, Tamara       	68	68	73	 69.67 D
+Perez, Daniel     	63	72	59	 64.67 D
+Thompson, Daniel  	81	90	75	 82.00 B
+White, Danielle   	58	68	66	 64.00 D
+Harris, Kenneth   	85	71	78	 78.00 C
+Sanchez, Monica   	90	76	78	 81.33 B
+Clark, Anita      	84	98	71	 84.33 B
+Ramirez, Wendy    	73	57	100	 76.67 C
+Lewis, George     	58	77	85	 73.33 C
+RobFLson, Gloria  	68	77	72	 72.33 C
+Walker, Rhonda    	60	71	77	 69.33 D
+Young, Mohammed   	63	84	74	 73.67 C
+Allen, April      	57	60	77	 64.67 D
+Ortiz, Carrie     	88	74	57	 73.00 C
+Wright, Christopher	100	69	83	 84.00 B
+Scott, Gary       	57	75	70	 67.33 D
+Torres, Leroy     	57	87	80	 74.67 C
+Nguyen, Marcus    	100	63	57	 73.33 C
+Hill, Marjorie    	91	91	76	 86.00 B
+Flores, Mark      	95	95	72	 87.33 B
+Green, Jason      	93	61	59	 71.00 C
+Adams, Joseph     	97	89	93	 93.00 A
+Nelson, Leslie    	62	73	73	 69.33 D
+Baker, Anthony    	60	72	79	 70.33 C
+Hall, Esther      	69	80	80	 76.33 C
+Rivera, Katrina   	72	86	99	 85.67 B
+Campbell, Matthew 	92	74	75	 80.33 B
+Mitchell, Nathan  	98	78	67	 81.00 B
+Carter, Eduardo   	84	63	77	 74.67 C
+Roberts, Paul     	73	80	72	 75.00 C
+Williams, Pauline 	83	66	85	 78.00 C
+Brown, David      	80	82	84	 82.00 B
+********************************************************
